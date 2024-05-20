@@ -203,7 +203,7 @@ enderio.itemPowderIngot=Порошки и слитки
 
 //Alloys
 enderio.itemAlloy.name=Сплав
-enderio.electricalSteel.name=Наэлектризованная сталь
+enderio.electricalSteel.name=Электрическая сталь
 enderio.energeticAlloy.name=Энергетический сплав
 enderio.phasedGold.name=Вибрирующий сплав
 enderio.redstoneAlloy.name=Сплав из красного камня
@@ -211,10 +211,10 @@ enderio.conductiveIron.name=Проводящее железо
 enderio.phasedIron.name=Пульсирующее железо
 enderio.vibrantNugget.name=Самородок вибрирующего сплава
 enderio.darkSteel.name=Тёмная сталь
-enderio.soularium.name=Соуларий
+enderio.soularium.name=Соулярий
 
 tile.blockIngotStorage.name=Хранилище слитков
-tile.enderio.electricalSteel.name=Блок наэлектризованной стали
+tile.enderio.electricalSteel.name=Блок электрической стали
 tile.enderio.energeticAlloy.name=Блок энергетического сплава
 tile.enderio.phasedGold.name=Блок вибрирующего сплава
 tile.enderio.redstoneAlloy.name=Блок сплава из красного камня
@@ -222,7 +222,7 @@ tile.enderio.conductiveIron.name=Блок проводящего железа
 tile.enderio.phasedIron.name=Блок пульсирующего железа
 tile.enderio.vibrantNugget.name=Блок самородка вибрирующего сплава
 tile.enderio.darkSteel.name=Блок тёмной стали
-tile.enderio.soularium.name=Блок соулария
+tile.enderio.soularium.name=Блок соулярия
 
 //Powder / Ingot
 enderio.powderCoal.name=Угольный порошок
